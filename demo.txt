@@ -5,5 +5,5 @@ master -> 3
 branch1 -> 3
 branch1 -> 4
 remote master -> 5
-
+branch1 -> 6
 remote master -> 7
