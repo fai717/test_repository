@@ -1,7 +1,7 @@
 edit on -> seq
 master -> 1
-branch1 -> 2
-master -> 3
+branch1 -> 2 -> b
+master -> 3 -> c
 branch1 -> 3
 branch1 -> 4
 remote master -> 5
