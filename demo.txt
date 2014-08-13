@@ -1,3 +1,4 @@
 edit on -> seq
 master -> 1
 branch1 -> 2
+master -> 3
